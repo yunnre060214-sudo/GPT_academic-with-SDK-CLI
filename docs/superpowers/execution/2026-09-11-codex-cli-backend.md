@@ -34,11 +34,8 @@ LLM API Key。
 ## 规划与执行记录
 
 本功能先由独立规划阶段确定范围、风险、接口和验证标准，再由独立执行阶段
-实现，随后进行两轮独立审查和主流程复核。规划文档保存在 ChatGPT 项目工作区：
-
-- [仓库内实施计划](../plans/2026-09-11-codex-cli-backend.md)
-- [设计文档](/Users/yunnre/.codex/.chatgpt-projects/g-p-6aa385c5d21c819190cc85e592e8c1df/docs/superpowers/specs/2026-09-11-codex-cli-backend-design.md)
-- [实施计划](/Users/yunnre/.codex/.chatgpt-projects/g-p-6aa385c5d21c819190cc85e592e8c1df/docs/superpowers/plans/2026-09-11-codex-cli-backend.md)
+实现，随后进行两轮独立审查和主流程复核。实施范围和验收标准记录在仓库内的
+[实施计划](../plans/2026-09-11-codex-cli-backend.md)中。
 
 ## 已执行的验证
 
